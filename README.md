@@ -34,10 +34,11 @@
 
 <details>
   <summary>✅ <b>Test assignment Emphasoft </b> </summary>
-  
+  <a href="https://github.com/TheNear/EmphasoftTest">📘 Repository Link</a>
   <br/>
-  Auth form with client validation. 
-
+  <a href="https://thenear.github.io/EmphasoftTest">📃 Github pages</a>
+  <br/>
+  Auth form with validation on client side. After authorization, you get to page with list of users. User list has filtration logic and sorting logic. Also i've done simple notifications, when you get some errors from server or some another information.
   <br/>
 
   <b>Used tools:</b>
@@ -47,5 +48,10 @@
 <img align="left" alt="REDUX" width="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/0760f478b05cfc68a58657a6719757dcee7c283c/icons/redux.svg" />
 <img align="left" alt="SAGA" width="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/master/icons/saga.png" />
 <img align="left" alt="STYLED" width="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/master/icons/styled.png" />
+<br />
+<b> Screenshots: </b>
+
+<img align="left" alt="Emphasoft login" width="150px" src="https://raw.githubusercontent.com/TheNear/EmphasoftTest/master/screen/login.png" />
+<img align="left" alt="Emphasoft login" width="150px" src="https://raw.githubusercontent.com/TheNear/EmphasoftTest/master/screen/list.png" />
 
 </details>
