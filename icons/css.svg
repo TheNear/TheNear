@@ -1,1 +1,8 @@
-<?xml version="1.0" ?><!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.0//EN'  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'><svg enable-background="new 0 0 32 32" width="35px" height="35px" id="Layer_1" version="1.0" viewBox="0 0 32 32" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><polygon fill="#1F62AE" points="27.377,28.889 16.001,32 4.625,28.889 2,0 30.002,0  "/><polygon fill="#347DC6" points="16,2 16,29.75 25.232,27.008 27.688,2  "/><polygon fill="#FFFFFF" points="24.363,6 7.607,6 8,10 16,10 8.25,12.99 8.619,17 19.502,17 19.158,21 16,21.99 12.861,20.984    12.533,19 8.803,19 9.262,23.987 16,25.99 22.728,23.986 23.719,12.99 16.026,12.99 24,10  "/></g><g/><g/><g/><g/><g/><g/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="35pt" height="35pt" viewBox="0 0 35 35" version="1.1">
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(12.156863%,38.431373%,68.235294%);fill-opacity:1;" d="M 29.945312 31.597656 L 17.5 35 L 5.058594 31.597656 L 2.1875 0 L 32.816406 0 Z M 29.945312 31.597656 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(20.392157%,49.019608%,77.647059%);fill-opacity:1;" d="M 17.5 2.1875 L 17.5 32.539062 L 27.597656 29.539062 L 30.285156 2.1875 Z M 17.5 2.1875 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 26.648438 6.5625 L 8.320312 6.5625 L 8.75 10.9375 L 17.5 10.9375 L 9.023438 14.207031 L 9.425781 18.59375 L 21.332031 18.59375 L 20.953125 22.96875 L 17.5 24.050781 L 14.066406 22.953125 L 13.707031 20.78125 L 9.628906 20.78125 L 10.128906 26.234375 L 17.5 28.425781 L 24.859375 26.234375 L 25.941406 14.207031 L 17.527344 14.207031 L 26.25 10.9375 Z M 26.648438 6.5625 "/>
+</g>
+</svg>
