@@ -23,7 +23,7 @@ Here you can find what technologies I use, my projects and test assignments comp
 <img align="left" alt="STYLED"   src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/styled.png" />
 <img align="left" alt="MONGODB"   src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/mongodb.png" />
 <img align="left" alt="NODE"   src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/node.png" />
-
+-
 <br />
 
 ### Projects and test assignments:
