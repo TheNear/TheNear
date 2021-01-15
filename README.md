@@ -18,7 +18,7 @@
 <img align="left" alt="REACT" width="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/08608df9e6211111b40fa4e9b3fcd6f5aade6458/icons/react.svg" />
 <img align="left" alt="REDUX" width="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/0760f478b05cfc68a58657a6719757dcee7c283c/icons/redux.svg" />
 <img align="left" alt="SAGA" width="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/master/icons/saga.png" />
-<img align="left" alt="CSSMODULES" width="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/08608df9e6211111b40fa4e9b3fcd6f5aade6458/icons/cssmodules.png" />
+<img align="left" alt="CSSMODULES" width="35px" src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/cssmodules.png" />
 <img align="left" alt="SASS" width="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/08608df9e6211111b40fa4e9b3fcd6f5aade6458/icons/sass.svg" />
 <img align="left" alt="STYLED" width="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/master/icons/styled.png" />
 <img align="left" alt="MONGODB" width="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/08608df9e6211111b40fa4e9b3fcd6f5aade6458/icons/mongodb.svg" />
@@ -73,7 +73,7 @@
 <img align="left" alt="TYPESCRIPT" width="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/08608df9e6211111b40fa4e9b3fcd6f5aade6458/icons/typescript.svg" />
 <img align="left" alt="REACT" width="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/08608df9e6211111b40fa4e9b3fcd6f5aade6458/icons/react.svg" />
 <img align="left" alt="REDUX" width="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/0760f478b05cfc68a58657a6719757dcee7c283c/icons/redux.svg" />
-<img align="left" alt="CSSMODULES" width="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/08608df9e6211111b40fa4e9b3fcd6f5aade6458/icons/cssmodules.png" />
+<img align="left" alt="CSSMODULES" width="35px" src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/cssmodules.png" />
 
 <br/>
 
@@ -81,3 +81,8 @@
 
 <img align="left" alt="Emphasoft login" width="350px" src="https://raw.githubusercontent.com/KosyanMedia/test-tasks/master/aviasales_frontend/search_preview.png" />
 </details>
+
+[telegram]: https://t.me/NungKu
+[linkedin]: https://www.linkedin.com/in/oleg-denisov-5a9517200/
+[vk]: https://vk.com/thenearx
+[mail]: mailto:Nearxjob@gmail.com
