@@ -2,27 +2,27 @@
 Here you can find what technologies I use, my projects and test assignments completed by me.
 ### Connect with me:
 
-[<img align="left" alt="TheNear | Telegramm" width="35x" height="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/34bc72b4627546fa7d7cf813e6b3395052e77d96/icons/tele.png" />][telegram]
-[<img align="left" alt="TheNear | Vkontakte" width="35px" height="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/34bc72b4627546fa7d7cf813e6b3395052e77d96/icons/vk.png" />][vk]
-[<img align="left" alt="TheNear | Linkedin" width="35px" height="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/34bc72b4627546fa7d7cf813e6b3395052e77d96/icons/linked.svg" />][linkedin]
-[<img align="left" alt="TheNear | Gmail" width="35px" height="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/34bc72b4627546fa7d7cf813e6b3395052e77d96/icons/gmail.png" />][mail]
+[<img align="left" alt="TheNear | Telegramm" src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/tele.png" />][telegram]
+[<img align="left" alt="TheNear | Vkontakte" src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/vk.png" />][vk]
+[<img align="left" alt="TheNear | Linkedin" src="https://raw.githubusercontent.com/TheNear/GHProfile/34bc72b4627546fa7d7cf813e6b3395052e77d96/icons/linked.svg" />][linkedin]
+[<img align="left" alt="TheNear | Gmail" src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/gmail.png" />][mail]
 
 <br />
 
 ### Languages and Tools:
 
-<img align="left" alt="HTML5" width="35px" height="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/08608df9e6211111b40fa4e9b3fcd6f5aade6458/icons/html.svg" />
-<img align="left" alt="CSS" width="35px" height="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/08608df9e6211111b40fa4e9b3fcd6f5aade6458/icons/css.png" />
-<img align="left" alt="JS" width="35px" height="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/08608df9e6211111b40fa4e9b3fcd6f5aade6458/icons/js.png" />
-<img align="left" alt="TYPESCRIPT" width="35px" height="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/08608df9e6211111b40fa4e9b3fcd6f5aade6458/icons/typescript.png" />
-<img align="left" alt="REACT" width="35px" height="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/08608df9e6211111b40fa4e9b3fcd6f5aade6458/icons/react.png" />
-<img align="left" alt="REDUX" width="35px" height="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/0760f478b05cfc68a58657a6719757dcee7c283c/icons/redux.png" />
-<img align="left" alt="SAGA" width="35px" height="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/master/icons/saga.png" />
-<img align="left" alt="CSSMODULES" width="35px" height="35px" src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/cssmodules.png" />
-<img align="left" alt="SASS" width="35px" height="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/08608df9e6211111b40fa4e9b3fcd6f5aade6458/icons/sass.png" />
-<img align="left" alt="STYLED" width="35px" height="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/master/icons/styled.png" />
-<img align="left" alt="MONGODB" width="35px" height="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/08608df9e6211111b40fa4e9b3fcd6f5aade6458/icons/mongodb.png" />
-<img align="left" alt="NODE" width="35px" height="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/08608df9e6211111b40fa4e9b3fcd6f5aade6458/icons/node.png" />
+<img align="left" alt="HTML5"   src="https://raw.githubusercontent.com/TheNear/GHProfile/08608df9e6211111b40fa4e9b3fcd6f5aade6458/icons/html.svg" />
+<img align="left" alt="CSS" src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/css.png" />
+<img align="left" alt="JS"   src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/js.png" />
+<img align="left" alt="TYPESCRIPT"   src="https://github.com/TheNear/TheNear/blob/master/icons/typescript.png" />
+<img align="left" alt="REACT"   src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/react.png" />
+<img align="left" alt="REDUX"   src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/redux.png" />
+<img align="left" alt="SAGA"   src="https://raw.githubusercontent.com/TheNear/GHProfile/master/icons/saga.png" />
+<img align="left" alt="CSSMODULES"   src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/cssmodules.png" />
+<img align="left" alt="SASS"   src="https://github.com/TheNear/TheNear/blob/master/icons/sass.png" />
+<img align="left" alt="STYLED"   src="https://raw.githubusercontent.com/TheNear/GHProfile/master/icons/styled.png" />
+<img align="left" alt="MONGODB"   src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/mongodb.png" />
+<img align="left" alt="NODE"   src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/node.png" />
 
 <br />
 
@@ -46,11 +46,11 @@ Here you can find what technologies I use, my projects and test assignments comp
 
 <b>Used tools:</b>
 <br/>
-<img align="left" alt="TYPESCRIPT" width="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/08608df9e6211111b40fa4e9b3fcd6f5aade6458/icons/typescript.png" />
-<img align="left" alt="REACT" width="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/08608df9e6211111b40fa4e9b3fcd6f5aade6458/icons/react.png" />
-<img align="left" alt="REDUX" width="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/0760f478b05cfc68a58657a6719757dcee7c283c/icons/redux.png" />
-<img align="left" alt="SAGA" width="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/master/icons/saga.png" />
-<img align="left" alt="STYLED" width="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/master/icons/styled.png" />
+<img align="left" alt="TYPESCRIPT"  src="https://github.com/TheNear/TheNear/blob/master/icons/typescript.png" />
+<img align="left" alt="REACT"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/react.png" />
+<img align="left" alt="REDUX"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/redux.png" />
+<img align="left" alt="SAGA"  src="https://raw.githubusercontent.com/TheNear/GHProfile/master/icons/saga.png" />
+<img align="left" alt="STYLED"  src="https://raw.githubusercontent.com/TheNear/GHProfile/master/icons/styled.png" />
 
 <br/>
 
@@ -72,11 +72,11 @@ Here you can find what technologies I use, my projects and test assignments comp
 
 <b>Used tools:</b>
 <br/>
-<img align="left" alt="TYPESCRIPT" width="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/08608df9e6211111b40fa4e9b3fcd6f5aade6458/icons/typescript.png" />
-<img align="left" alt="REACT" width="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/08608df9e6211111b40fa4e9b3fcd6f5aade6458/icons/react.png" />
-<img align="left" alt="REDUX" width="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/0760f478b05cfc68a58657a6719757dcee7c283c/icons/redux.png" />
-<img align="left" alt="SAGA" width="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/master/icons/saga.png" />
-<img align="left" alt="STYLED" width="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/master/icons/styled.png" />
+<img align="left" alt="TYPESCRIPT"  src="https://github.com/TheNear/TheNear/blob/master/icons/typescript.png" />
+<img align="left" alt="REACT"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/react.png" />
+<img align="left" alt="REDUX"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/redux.png" />
+<img align="left" alt="SAGA"  src="https://raw.githubusercontent.com/TheNear/GHProfile/master/icons/saga.png" />
+<img align="left" alt="STYLED"  src="https://raw.githubusercontent.com/TheNear/GHProfile/master/icons/styled.png" />
 
 <br/>
 
@@ -99,10 +99,10 @@ Here you can find what technologies I use, my projects and test assignments comp
 
 <b>Used tools:</b>
 <br/>
-<img align="left" alt="TYPESCRIPT" width="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/08608df9e6211111b40fa4e9b3fcd6f5aade6458/icons/typescript.png" />
-<img align="left" alt="REACT" width="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/08608df9e6211111b40fa4e9b3fcd6f5aade6458/icons/react.png" />
-<img align="left" alt="REDUX" width="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/0760f478b05cfc68a58657a6719757dcee7c283c/icons/redux.png" />
-<img align="left" alt="CSSMODULES" width="35px" src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/cssmodules.png" />
+<img align="left" alt="TYPESCRIPT"  src="https://github.com/TheNear/TheNear/blob/master/icons/typescript.png" />
+<img align="left" alt="REACT"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/react.png" />
+<img align="left" alt="REDUX"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/redux.png" />
+<img align="left" alt="CSSMODULES"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/cssmodules.png" />
 
 <br/>
 
@@ -124,11 +124,11 @@ Here you can find what technologies I use, my projects and test assignments comp
 
 <b>Used tools:</b>
 <br/>
-<img align="left" alt="TYPESCRIPT" width="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/08608df9e6211111b40fa4e9b3fcd6f5aade6458/icons/typescript.png" />
-<img align="left" alt="REACT" width="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/08608df9e6211111b40fa4e9b3fcd6f5aade6458/icons/react.png" />
-<img align="left" alt="REDUX" width="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/0760f478b05cfc68a58657a6719757dcee7c283c/icons/redux.png" />
-<img align="left" alt="SAGA" width="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/master/icons/saga.png" />
-<img align="left" alt="STYLED" width="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/master/icons/styled.png" />
+<img align="left" alt="TYPESCRIPT"  src="https://github.com/TheNear/TheNear/blob/master/icons/typescript.png" />
+<img align="left" alt="REACT"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/react.png" />
+<img align="left" alt="REDUX"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/redux.png" />
+<img align="left" alt="SAGA"  src="https://raw.githubusercontent.com/TheNear/GHProfile/master/icons/saga.png" />
+<img align="left" alt="STYLED"  src="https://raw.githubusercontent.com/TheNear/GHProfile/master/icons/styled.png" />
 
 <br/>
 
@@ -150,9 +150,9 @@ Here you can find what technologies I use, my projects and test assignments comp
 
 <b>Used tools:</b>
 <br/>
-<img align="left" alt="TYPESCRIPT" width="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/08608df9e6211111b40fa4e9b3fcd6f5aade6458/icons/typescript.png" />
-<img align="left" alt="REACT" width="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/08608df9e6211111b40fa4e9b3fcd6f5aade6458/icons/react.png" />
-<img align="left" alt="CSSMODULES" width="35px" src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/cssmodules.png" />
+<img align="left" alt="TYPESCRIPT"  src="https://github.com/TheNear/TheNear/blob/master/icons/typescript.png" />
+<img align="left" alt="REACT"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/react.png" />
+<img align="left" alt="CSSMODULES"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/cssmodules.png" />
 
 </details>
 
@@ -167,10 +167,10 @@ Here you can find what technologies I use, my projects and test assignments comp
 
 <b>Used tools:</b>
 <br/>
-<img align="left" alt="JS" width="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/08608df9e6211111b40fa4e9b3fcd6f5aade6458/icons/js.png" />
-<img align="left" alt="REACT" width="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/08608df9e6211111b40fa4e9b3fcd6f5aade6458/icons/react.png" />
-<img align="left" alt="REDUX" width="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/0760f478b05cfc68a58657a6719757dcee7c283c/icons/redux.png" />
-<img align="left" alt="CSSMODULES" width="35px" src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/cssmodules.png" />
+<img align="left" alt="JS"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/js.png" />
+<img align="left" alt="REACT"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/react.png" />
+<img align="left" alt="REDUX"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/redux.png" />
+<img align="left" alt="CSSMODULES"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/cssmodules.png" />
 
 <br/>
 
@@ -187,10 +187,10 @@ Here you can find what technologies I use, my projects and test assignments comp
 
 <b>Used tools:</b>
 <br/>
-<img align="left" alt="JS" width="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/08608df9e6211111b40fa4e9b3fcd6f5aade6458/icons/js.png" />
-<img align="left" alt="REACT" width="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/08608df9e6211111b40fa4e9b3fcd6f5aade6458/icons/react.png" />
-<img align="left" alt="REDUX" width="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/0760f478b05cfc68a58657a6719757dcee7c283c/icons/redux.png" />
-<img align="left" alt="CSSMODULES" width="35px" src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/cssmodules.png" />
+<img align="left" alt="JS"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/js.png" />
+<img align="left" alt="REACT"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/react.png" />
+<img align="left" alt="REDUX"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/redux.png" />
+<img align="left" alt="CSSMODULES"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/cssmodules.png" />
 
 <br/>
 
