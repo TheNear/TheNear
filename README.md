@@ -2,6 +2,7 @@
 Here you can find what technologies I use, my projects and test assignments completed by me.
 ### Connect with me:
 
+
 [<img align="left" alt="TheNear | Telegramm" src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/tele.png" />][telegram]
 [<img align="left" alt="TheNear | Vkontakte" src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/vk.png" />][vk]
 [<img align="left" alt="TheNear | Linkedin" src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/linkedin.png" />][linkedin]
@@ -11,6 +12,7 @@ Here you can find what technologies I use, my projects and test assignments comp
 
 ### Languages and Tools:
 
+<div>
 <img align="left" alt="HTML5"   src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/html5.png" />
 <img align="left" alt="CSS" src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/css.png" />
 <img align="left" alt="JS"   src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/js.png" />
@@ -23,8 +25,8 @@ Here you can find what technologies I use, my projects and test assignments comp
 <img align="left" alt="STYLED"   src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/styled.png" />
 <img align="left" alt="MONGODB"   src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/mongodb.png" />
 <img alt="NODE"   src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/node.png" />
-<br />
--
+</div>
+
 <br />
 
 ### Projects and test assignments:
