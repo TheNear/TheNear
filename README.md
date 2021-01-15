@@ -4,7 +4,7 @@ Here you can find what technologies I use, my projects and test assignments comp
 
 [<img align="left" alt="TheNear | Telegramm" src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/tele.png" />][telegram]
 [<img align="left" alt="TheNear | Vkontakte" src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/vk.png" />][vk]
-[<img align="left" alt="TheNear | Linkedin" src="https://raw.githubusercontent.com/TheNear/GHProfile/34bc72b4627546fa7d7cf813e6b3395052e77d96/icons/linked.svg" />][linkedin]
+[<img align="left" alt="TheNear | Linkedin" src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/linkedin.png" />][linkedin]
 [<img align="left" alt="TheNear | Gmail" src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/gmail.png" />][mail]
 
 <br />
