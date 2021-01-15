@@ -7,9 +7,6 @@ Here you can find what technologies I use, my projects and test assignments comp
 [<img align="left" alt="TheNear | Vkontakte" src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/vk.png" />][vk]
 [<img align="left" alt="TheNear | Linkedin" src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/linkedin.png" />][linkedin]
 [<img alt="TheNear | Gmail" src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/gmail.png" />][mail]
-
-<br />
-
 ### Languages and Tools:
 
 <div>
@@ -26,8 +23,6 @@ Here you can find what technologies I use, my projects and test assignments comp
 <img align="left" alt="MONGODB"   src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/mongodb.png" />
 <img alt="NODE"   src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/node.png" />
 </div>
-
-<br />
 
 ### Projects and test assignments:
 
@@ -54,8 +49,6 @@ Here you can find what technologies I use, my projects and test assignments comp
 <img align="left" alt="REDUX"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/redux.png" />
 <img align="left" alt="SAGA"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/saga.png" />
 <img alt="STYLED"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/styled.png" />
-
-<br/>
 
 <b> Screenshots: </b>
 
