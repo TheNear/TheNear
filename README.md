@@ -6,7 +6,7 @@ Here you can find what technologies I use, my projects and test assignments comp
 [<img align="left" alt="TheNear | Telegramm" src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/tele.png" />][telegram]
 [<img align="left" alt="TheNear | Vkontakte" src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/vk.png" />][vk]
 [<img align="left" alt="TheNear | Linkedin" src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/linkedin.png" />][linkedin]
-[<img align="left" alt="TheNear | Gmail" src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/gmail.png" />][mail]
+[<img alt="TheNear | Gmail" src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/gmail.png" />][mail]
 
 <br />
 
@@ -53,7 +53,7 @@ Here you can find what technologies I use, my projects and test assignments comp
 <img align="left" alt="REACT"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/react.png" />
 <img align="left" alt="REDUX"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/redux.png" />
 <img align="left" alt="SAGA"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/saga.png" />
-<img align="left" alt="STYLED"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/styled.png" />
+<img alt="STYLED"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/styled.png" />
 
 <br/>
 
@@ -79,7 +79,7 @@ Here you can find what technologies I use, my projects and test assignments comp
 <img align="left" alt="REACT"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/react.png" />
 <img align="left" alt="REDUX"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/redux.png" />
 <img align="left" alt="SAGA"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/saga.png" />
-<img align="left" alt="STYLED"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/styled.png" />
+<img alt="STYLED"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/styled.png" />
 
 <br/>
 
@@ -105,7 +105,7 @@ Here you can find what technologies I use, my projects and test assignments comp
 <img align="left" alt="TYPESCRIPT"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/typescript.png" />
 <img align="left" alt="REACT"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/react.png" />
 <img align="left" alt="REDUX"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/redux.png" />
-<img align="left" alt="CSSMODULES"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/cssmodules.png" />
+<img alt="CSSMODULES"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/cssmodules.png" />
 
 <br/>
 
@@ -131,7 +131,7 @@ Here you can find what technologies I use, my projects and test assignments comp
 <img align="left" alt="REACT"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/react.png" />
 <img align="left" alt="REDUX"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/redux.png" />
 <img align="left" alt="SAGA"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/saga.png" />
-<img align="left" alt="STYLED"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/styled.png" />
+<img alt="STYLED"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/styled.png" />
 
 <br/>
 
@@ -155,7 +155,7 @@ Here you can find what technologies I use, my projects and test assignments comp
 <br/>
 <img align="left" alt="TYPESCRIPT"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/typescript.png" />
 <img align="left" alt="REACT"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/react.png" />
-<img align="left" alt="CSSMODULES"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/cssmodules.png" />
+<img alt="CSSMODULES"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/cssmodules.png" />
 
 </details>
 
@@ -173,7 +173,7 @@ Here you can find what technologies I use, my projects and test assignments comp
 <img align="left" alt="JS"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/js.png" />
 <img align="left" alt="REACT"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/react.png" />
 <img align="left" alt="REDUX"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/redux.png" />
-<img align="left" alt="CSSMODULES"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/cssmodules.png" />
+<img alt="CSSMODULES"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/cssmodules.png" />
 
 <br/>
 
@@ -193,7 +193,7 @@ Here you can find what technologies I use, my projects and test assignments comp
 <img align="left" alt="JS"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/js.png" />
 <img align="left" alt="REACT"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/react.png" />
 <img align="left" alt="REDUX"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/redux.png" />
-<img align="left" alt="CSSMODULES"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/cssmodules.png" />
+<img alt="CSSMODULES"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/cssmodules.png" />
 
 <br/>
 
