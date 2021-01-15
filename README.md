@@ -60,16 +60,13 @@
 <br/>
 
 </details>
-
-<br/>
-
 <details>
   <summary>✅ <b>Test assignment AviasalesTest </b> </summary>
   <a href="https://github.com/TheNear/AviasalesTest">📘 Repository Link</a>
   <br/>
   <a href="https://thenear.github.io/AviasalesTest/">📃 Github pages</a>
   <br/>
-  List of users
+  List of available tickets, which we get from server by long pooling request. We can choose counts of transfers and sort by price or fly duration. All our choices saved in string query and work with redux. If we get some error from server, client have autoreconnect.
   <br/>
 
 <b>Used tools:</b>
@@ -88,9 +85,6 @@
 <br/>
 
 </details>
-
-<br>
-
 <details>
   <summary>✅ <b>Test assignment Notion </b> </summary>
   <a href="https://github.com/TheNear/NotionTest">📘 Repository Link</a>
@@ -117,6 +111,23 @@
 <br/>
 
 </details>
+<details>
+  <summary>✅ <b>Test assignment Avito </b> </summary>
+  <a href="https://github.com/TheNear/AvitoTest">📘 Repository Link</a>
+  <br/>
+  <a href="https://thenear.github.io/AvitoTest/">📃 Github pages</a>
+  <br/>
+ Very simple application. We just have a image gallery, we can click one of them and will get pop up with comments. We can write a comments.
+  <br/>
+
+<b>Used tools:</b>
+<br/>
+<img align="left" alt="TYPESCRIPT" width="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/08608df9e6211111b40fa4e9b3fcd6f5aade6458/icons/typescript.svg" />
+<img align="left" alt="REACT" width="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/08608df9e6211111b40fa4e9b3fcd6f5aade6458/icons/react.svg" />
+<img align="left" alt="CSSMODULES" width="35px" src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/cssmodules.png" />
+
+</details>
+
 
 [telegram]: https://t.me/NungKu
 [linkedin]: https://www.linkedin.com/in/oleg-denisov-5a9517200/
