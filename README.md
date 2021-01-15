@@ -33,6 +33,34 @@
 [vk]: https://vk.com/thenearx
 [mail]: mailto:Nearxjob@gmail.com
 
+
+<details>
+  <summary>❌ <b>Project CoinCap Copy </b> </summary>
+  <a href="https://github.com/TheNear/CoinCapCopy">📘 Repository Link</a>
+  <br/>
+  <a href="https://thenear.github.io/CoinCapCopy/">📃 Github pages</a>
+  <br/>
+  Not finished.❗
+  Cryptocurrency application, you can watching at currency in real time. We get data on exchange rates using Websockets with Redux-saga.
+  <br/>
+
+<b>Used tools:</b>
+<br/>
+<img align="left" alt="TYPESCRIPT" width="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/08608df9e6211111b40fa4e9b3fcd6f5aade6458/icons/typescript.svg" />
+<img align="left" alt="REACT" width="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/08608df9e6211111b40fa4e9b3fcd6f5aade6458/icons/react.svg" />
+<img align="left" alt="REDUX" width="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/0760f478b05cfc68a58657a6719757dcee7c283c/icons/redux.svg" />
+<img align="left" alt="SAGA" width="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/master/icons/saga.png" />
+<img align="left" alt="STYLED" width="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/master/icons/styled.png" />
+
+<br/>
+
+<b> Screenshots: </b>
+
+<img align="left" alt="Emphasoft login" width="350px" src="https://raw.githubusercontent.com/TheNear/CoinCapCopy/master/readmefiles/screen.png" />
+<br/>
+
+</details>
+
 <details>
   <summary>✅ <b>Test assignment Emphasoft </b> </summary>
   <a href="https://github.com/TheNear/EmphasoftTest">📘 Repository Link</a>
@@ -125,6 +153,46 @@
 <img align="left" alt="TYPESCRIPT" width="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/08608df9e6211111b40fa4e9b3fcd6f5aade6458/icons/typescript.svg" />
 <img align="left" alt="REACT" width="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/08608df9e6211111b40fa4e9b3fcd6f5aade6458/icons/react.svg" />
 <img align="left" alt="CSSMODULES" width="35px" src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/cssmodules.png" />
+
+</details>
+
+<details>
+  <summary>✅ <b>Test ExchangeRates</b> </summary>
+  <a href="https://github.com/TheNear/ExchangeRates">📘 Repository Link</a>
+  <br/>
+  <a href="https://thenear.github.io/ExchangeRates/">📃 Github pages</a>
+  <br/>
+  Application where you can see the exchange rates relative to each other. You can choose your favorites currencies, that information saved in local storage. Also there is currency rate calculator in second tab of application.
+  <br/>
+
+<b>Used tools:</b>
+<br/>
+<img align="left" alt="JS" width="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/08608df9e6211111b40fa4e9b3fcd6f5aade6458/icons/js.svg" />
+<img align="left" alt="REACT" width="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/08608df9e6211111b40fa4e9b3fcd6f5aade6458/icons/react.svg" />
+<img align="left" alt="REDUX" width="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/0760f478b05cfc68a58657a6719757dcee7c283c/icons/redux.svg" />
+<img align="left" alt="CSSMODULES" width="35px" src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/cssmodules.png" />
+
+<br/>
+
+</details>
+
+<details>
+  <summary>✅ <b>Test assignment Epam</b> </summary>
+  <a href="https://github.com/TheNear/Bookshelf">📘 Repository Link</a>
+  <br/>
+  <a href="https://thenear.github.io/Bookshelf/">📃 Github pages</a>
+  <br/>
+ A simple application like a bookshelf. We have a list of books with thumbnails, title and description. You can edit books, delete or add a new book. There is a simple validation where you want to add a new book.
+  <br/>
+
+<b>Used tools:</b>
+<br/>
+<img align="left" alt="JS" width="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/08608df9e6211111b40fa4e9b3fcd6f5aade6458/icons/js.svg" />
+<img align="left" alt="REACT" width="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/08608df9e6211111b40fa4e9b3fcd6f5aade6458/icons/react.svg" />
+<img align="left" alt="REDUX" width="35px" src="https://raw.githubusercontent.com/TheNear/GHProfile/0760f478b05cfc68a58657a6719757dcee7c283c/icons/redux.svg" />
+<img align="left" alt="CSSMODULES" width="35px" src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/cssmodules.png" />
+
+<br/>
 
 </details>
 
