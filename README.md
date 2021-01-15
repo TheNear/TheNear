@@ -1,5 +1,5 @@
 ### Hello, My name is Oleg, and i'm a Frontend Developer! 👋
-Here you can find what technologies I use and my projects and test assignments completed by me.
+Here you can find what technologies I use, my projects and test assignments completed by me.
 ### Connect with me:
 
 [<img align="left" alt="TheNear | Telegramm" width="35x" src="https://raw.githubusercontent.com/TheNear/GHProfile/34bc72b4627546fa7d7cf813e6b3395052e77d96/icons/tele.svg" />][telegram]
