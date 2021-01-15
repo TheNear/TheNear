@@ -11,16 +11,16 @@ Here you can find what technologies I use, my projects and test assignments comp
 
 ### Languages and Tools:
 
-<img align="left" alt="HTML5"   src="https://raw.githubusercontent.com/TheNear/GHProfile/08608df9e6211111b40fa4e9b3fcd6f5aade6458/icons/html.svg" />
+<img align="left" alt="HTML5"   src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/html5.png" />
 <img align="left" alt="CSS" src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/css.png" />
 <img align="left" alt="JS"   src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/js.png" />
-<img align="left" alt="TYPESCRIPT"   src="https://github.com/TheNear/TheNear/blob/master/icons/typescript.png" />
+<img align="left" alt="TYPESCRIPT"   src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/typescript.png" />
 <img align="left" alt="REACT"   src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/react.png" />
 <img align="left" alt="REDUX"   src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/redux.png" />
-<img align="left" alt="SAGA"   src="https://raw.githubusercontent.com/TheNear/GHProfile/master/icons/saga.png" />
+<img align="left" alt="SAGA"   src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/saga.png" />
 <img align="left" alt="CSSMODULES"   src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/cssmodules.png" />
-<img align="left" alt="SASS"   src="https://github.com/TheNear/TheNear/blob/master/icons/sass.png" />
-<img align="left" alt="STYLED"   src="https://raw.githubusercontent.com/TheNear/GHProfile/master/icons/styled.png" />
+<img align="left" alt="SASS"   src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/sass.png" />
+<img align="left" alt="STYLED"   src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/styled.png" />
 <img align="left" alt="MONGODB"   src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/mongodb.png" />
 <img align="left" alt="NODE"   src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/node.png" />
 
@@ -46,11 +46,11 @@ Here you can find what technologies I use, my projects and test assignments comp
 
 <b>Used tools:</b>
 <br/>
-<img align="left" alt="TYPESCRIPT"  src="https://github.com/TheNear/TheNear/blob/master/icons/typescript.png" />
+<img align="left" alt="TYPESCRIPT"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/typescript.png" />
 <img align="left" alt="REACT"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/react.png" />
 <img align="left" alt="REDUX"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/redux.png" />
-<img align="left" alt="SAGA"  src="https://raw.githubusercontent.com/TheNear/GHProfile/master/icons/saga.png" />
-<img align="left" alt="STYLED"  src="https://raw.githubusercontent.com/TheNear/GHProfile/master/icons/styled.png" />
+<img align="left" alt="SAGA"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/saga.png" />
+<img align="left" alt="STYLED"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/styled.png" />
 
 <br/>
 
@@ -72,11 +72,11 @@ Here you can find what technologies I use, my projects and test assignments comp
 
 <b>Used tools:</b>
 <br/>
-<img align="left" alt="TYPESCRIPT"  src="https://github.com/TheNear/TheNear/blob/master/icons/typescript.png" />
+<img align="left" alt="TYPESCRIPT"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/typescript.png" />
 <img align="left" alt="REACT"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/react.png" />
 <img align="left" alt="REDUX"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/redux.png" />
-<img align="left" alt="SAGA"  src="https://raw.githubusercontent.com/TheNear/GHProfile/master/icons/saga.png" />
-<img align="left" alt="STYLED"  src="https://raw.githubusercontent.com/TheNear/GHProfile/master/icons/styled.png" />
+<img align="left" alt="SAGA"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/saga.png" />
+<img align="left" alt="STYLED"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/styled.png" />
 
 <br/>
 
@@ -99,7 +99,7 @@ Here you can find what technologies I use, my projects and test assignments comp
 
 <b>Used tools:</b>
 <br/>
-<img align="left" alt="TYPESCRIPT"  src="https://github.com/TheNear/TheNear/blob/master/icons/typescript.png" />
+<img align="left" alt="TYPESCRIPT"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/typescript.png" />
 <img align="left" alt="REACT"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/react.png" />
 <img align="left" alt="REDUX"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/redux.png" />
 <img align="left" alt="CSSMODULES"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/cssmodules.png" />
@@ -124,11 +124,11 @@ Here you can find what technologies I use, my projects and test assignments comp
 
 <b>Used tools:</b>
 <br/>
-<img align="left" alt="TYPESCRIPT"  src="https://github.com/TheNear/TheNear/blob/master/icons/typescript.png" />
+<img align="left" alt="TYPESCRIPT"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/typescript.png" />
 <img align="left" alt="REACT"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/react.png" />
 <img align="left" alt="REDUX"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/redux.png" />
-<img align="left" alt="SAGA"  src="https://raw.githubusercontent.com/TheNear/GHProfile/master/icons/saga.png" />
-<img align="left" alt="STYLED"  src="https://raw.githubusercontent.com/TheNear/GHProfile/master/icons/styled.png" />
+<img align="left" alt="SAGA"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/saga.png" />
+<img align="left" alt="STYLED"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/styled.png" />
 
 <br/>
 
@@ -150,7 +150,7 @@ Here you can find what technologies I use, my projects and test assignments comp
 
 <b>Used tools:</b>
 <br/>
-<img align="left" alt="TYPESCRIPT"  src="https://github.com/TheNear/TheNear/blob/master/icons/typescript.png" />
+<img align="left" alt="TYPESCRIPT"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/typescript.png" />
 <img align="left" alt="REACT"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/react.png" />
 <img align="left" alt="CSSMODULES"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/cssmodules.png" />
 
