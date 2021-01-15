@@ -59,7 +59,7 @@ Here you can find what technologies I use, my projects and test assignments comp
 
 <b> Screenshots: </b>
 
-<img align="left" alt="Emphasoft login" width="350px" src="https://raw.githubusercontent.com/TheNear/CoinCapCopy/master/readmefiles/screen.png" />
+<img alt="Emphasoft login" width="350px" src="https://raw.githubusercontent.com/TheNear/CoinCapCopy/master/readmefiles/screen.png" />
 <br/>
 
 </details>
@@ -86,7 +86,7 @@ Here you can find what technologies I use, my projects and test assignments comp
 <b> Screenshots: </b>
 
 <img align="left" alt="Emphasoft login" width="150px" src="https://raw.githubusercontent.com/TheNear/EmphasoftTest/master/screen/login.png" />
-<img align="left" alt="Emphasoft login" width="150px" src="https://raw.githubusercontent.com/TheNear/EmphasoftTest/master/screen/list.png" />
+<img alt="Emphasoft login" width="150px" src="https://raw.githubusercontent.com/TheNear/EmphasoftTest/master/screen/list.png" />
 
 <br/>
 
@@ -111,7 +111,7 @@ Here you can find what technologies I use, my projects and test assignments comp
 
 <b> Screenshots: </b>
 
-<img align="left" alt="Emphasoft login" width="350px" src="https://raw.githubusercontent.com/KosyanMedia/test-tasks/master/aviasales_frontend/search_preview.png" />
+<img alt="Emphasoft login" width="350px" src="https://raw.githubusercontent.com/KosyanMedia/test-tasks/master/aviasales_frontend/search_preview.png" />
 
 <br/>
 
@@ -137,7 +137,7 @@ Here you can find what technologies I use, my projects and test assignments comp
 
 <b> Screenshots: </b>
 
-<img align="left" alt="Emphasoft login" width="450px" src="https://camo.githubusercontent.com/6c20beb90c7ac65729243ec7b59d78d2c8711249f891f4400aef6a2738970e7a/68747470733a2f2f7777772e6e6f74696f6e2e736f2f696d6167652f687474707325334125324625324673332d75732d776573742d322e616d617a6f6e6177732e636f6d2532467365637572652e6e6f74696f6e2d7374617469632e636f6d25324634656639383437372d316134352d343031342d396162632d35313066326332353330653025324673637265656e636170747572652d696e6b756261746f722d6b732d75612d74657374696e672d72656163742d72656475782d636f6e74616374732d323032302d31312d30312d31305f32325f34352e706e673f7461626c653d626c6f636b2669643d65323536383663652d643630392d343064322d626565322d6634356439626132353165362677696474683d36373230267573657249643d2663616368653d7632" />
+<img alt="Emphasoft login" width="450px" src="https://camo.githubusercontent.com/6c20beb90c7ac65729243ec7b59d78d2c8711249f891f4400aef6a2738970e7a/68747470733a2f2f7777772e6e6f74696f6e2e736f2f696d6167652f687474707325334125324625324673332d75732d776573742d322e616d617a6f6e6177732e636f6d2532467365637572652e6e6f74696f6e2d7374617469632e636f6d25324634656639383437372d316134352d343031342d396162632d35313066326332353330653025324673637265656e636170747572652d696e6b756261746f722d6b732d75612d74657374696e672d72656163742d72656475782d636f6e74616374732d323032302d31312d30312d31305f32325f34352e706e673f7461626c653d626c6f636b2669643d65323536383663652d643630392d343064322d626565322d6634356439626132353165362677696474683d36373230267573657249643d2663616368653d7632" />
 
 <br/>
 
