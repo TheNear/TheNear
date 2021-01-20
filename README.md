@@ -33,12 +33,12 @@ Here you can find what technologies I use, my projects and test assignments comp
 
 
 <details>
-  <summary>❌ <b>Project CoinCap Copy </b> </summary>
+  <summary>✅ <b>Project CoinCap Copy </b> </summary>
   <a href="https://github.com/TheNear/CoinCapCopy">📘 Repository Link</a>
   <br/>
   <a href="https://thenear.github.io/CoinCapCopy/">📃 Github pages</a>
   <br/>
-  Not finished.❗
+  Almost finished.❗
   Cryptocurrency application, you can watching at currency in real time. We get data on exchange rates using Websockets with Redux-saga.
   <br/>
 
