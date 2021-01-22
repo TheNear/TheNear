@@ -34,12 +34,14 @@ Here you can find what technologies I use, my projects and test assignments comp
 
 <details>
   <summary>❌ <b>Project GoProgress </b> </summary>
-  <a href="https://github.com/TheNear/CoinCapCopy">📘 Repository Link</a>
   <br/>
-  <a href="https://www.go-progress.ru/">📃 Site Link</a>
+  <a href="https://github.com/TheNear/CoinCapCopy">📘<b>  Repository Link </b></a>
+  <br/>
+  <a href="https://www.go-progress.ru/">📃 <b> Site Link </b></a>
+  <br/>
   <br/>
   Not finished Project.❗
-  My pet-project.
+  My pet-project. I want make an app, where you can compete with other people in your daily efficiency. You get points when you will do something useful like sport, english or something else. You can unite in groups with your friends for compete with other groups.
   <br/>
 
 <b>Used tools:</b>
@@ -49,15 +51,18 @@ Here you can find what technologies I use, my projects and test assignments comp
 <img align="left" alt="MONGODB"   src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/mongodb.png" />
 <img align="left" alt="GRAPHQL"   src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/graphql.png" />
 <img align="left" alt="NODE"   src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/node.png" />
+<img align="left" alt="ANTD"   src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/antd.png" />
 <img alt="STYLED"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/styled.png" />
 
 </details>
 
 <details>
   <summary>✅ <b>Project CoinCap Copy </b> </summary>
-  <a href="https://github.com/TheNear/CoinCapCopy">📘 Repository Link</a>
   <br/>
-  <a href="https://thenear.github.io/CoinCapCopy/">📃 Github pages</a>
+  <a href="https://github.com/TheNear/CoinCapCopy">📘<b>  Repository Link </b></a>
+  <br/>
+  <a href="https://thenear.github.io/CoinCapCopy/">📃 <b>  Github pages </b></a>
+  <br/>
   <br/>
   Almost finished.❗
   Cryptocurrency application, you can watching at currency in real time. We get data on exchange rates using Websockets with Redux-saga.
@@ -80,9 +85,11 @@ Here you can find what technologies I use, my projects and test assignments comp
 
 <details>
   <summary>✅ <b>Test assignment Emphasoft </b> </summary>
-  <a href="https://github.com/TheNear/EmphasoftTest">📘 Repository Link</a>
   <br/>
-  <a href="https://thenear.github.io/EmphasoftTest">📃 Github pages</a>
+  <a href="https://github.com/TheNear/EmphasoftTest">📘<b>  Repository Link </b></a>
+  <br/>
+  <a href="https://thenear.github.io/EmphasoftTest">📃 <b>  Github pages </b></a>
+  <br/>
   <br/>
   Auth form with validation on client side. After authorization, you get to page with list of users. User list has filtration logic and sorting logic. Also i've done simple notifications, when you get some errors from server or some another information.
   <br/>
@@ -107,9 +114,11 @@ Here you can find what technologies I use, my projects and test assignments comp
 </details>
 <details>
   <summary>✅ <b>Test assignment AviasalesTest </b> </summary>
-  <a href="https://github.com/TheNear/AviasalesTest">📘 Repository Link</a>
   <br/>
-  <a href="https://thenear.github.io/AviasalesTest/">📃 Github pages</a>
+  <a href="https://github.com/TheNear/AviasalesTest">📘<b>  Repository Link </b></a>
+  <br/>
+  <a href="https://thenear.github.io/AviasalesTest/">📃 <b>  Github pages </b></a>
+  <br/>
   <br/>
   List of available tickets, which we get from server by long pooling request. We can choose counts of transfers and sort by price or fly duration. All our choices saved in string query and work with redux. If we get some error from server, client have autoreconnect.
   <br/>
@@ -132,9 +141,11 @@ Here you can find what technologies I use, my projects and test assignments comp
 </details>
 <details>
   <summary>✅ <b>Test assignment Notion </b> </summary>
-  <a href="https://github.com/TheNear/NotionTest">📘 Repository Link</a>
   <br/>
-  <a href="https://thenear.github.io/NotionTest/">📃 Github pages</a>
+  <a href="https://github.com/TheNear/NotionTest">📘<b>  Repository Link </b></a>
+  <br/>
+  <a href="https://thenear.github.io/NotionTest/">📃 <b>  Github pages </b></a>
+  <br/>
   <br/>
  User's list with filtration and sorting. You can change list view: tile or table. This information save in localstorage. There is a simple pagination. Also you can copy phone/email/adress by click or you can make a call by click on phone number.
   <br/>
@@ -158,9 +169,11 @@ Here you can find what technologies I use, my projects and test assignments comp
 </details>
 <details>
   <summary>✅ <b>Test assignment Avito </b> </summary>
-  <a href="https://github.com/TheNear/AvitoTest">📘 Repository Link</a>
   <br/>
-  <a href="https://thenear.github.io/AvitoTest/">📃 Github pages</a>
+  <a href="https://github.com/TheNear/AvitoTest">📘<b>  Repository Link </b></a>
+  <br/>
+  <a href="https://thenear.github.io/AvitoTest/">📃 <b>  Github pages </b></a>
+  <br/>
   <br/>
  Very simple application. We just have a image gallery, we can click one of them and will get pop up with comments. We can write a comments.
   <br/>
@@ -175,9 +188,11 @@ Here you can find what technologies I use, my projects and test assignments comp
 
 <details>
   <summary>✅ <b>Test ExchangeRates</b> </summary>
-  <a href="https://github.com/TheNear/ExchangeRates">📘 Repository Link</a>
   <br/>
-  <a href="https://thenear.github.io/ExchangeRates/">📃 Github pages</a>
+  <a href="https://github.com/TheNear/ExchangeRates">📘<b>  Repository Link </b></a>
+  <br/>
+  <a href="https://thenear.github.io/ExchangeRates/">📃 <b>  Github pages </b></a>
+  <br/>
   <br/>
   Application where you can see the exchange rates relative to each other. You can choose your favorites currencies, that information saved in local storage. Also there is currency rate calculator in second tab of application.
   <br/>
@@ -195,9 +210,11 @@ Here you can find what technologies I use, my projects and test assignments comp
 
 <details>
   <summary>✅ <b>Test assignment Epam</b> </summary>
-  <a href="https://github.com/TheNear/Bookshelf">📘 Repository Link</a>
   <br/>
-  <a href="https://thenear.github.io/Bookshelf/">📃 Github pages</a>
+  <a href="https://github.com/TheNear/Bookshelf">📘<b>  Repository Link </b></a>
+  <br/>
+  <a href="https://thenear.github.io/Bookshelf/">📃 <b>  Github pages </b></a>
+  <br/>
   <br/>
  A simple application like a bookshelf. We have a list of books with thumbnails, title and description. You can edit books, delete or add a new book. There is a simple validation where you want to add a new book.
   <br/>
