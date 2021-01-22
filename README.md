@@ -35,7 +35,7 @@ Here you can find what technologies I use, my projects and test assignments comp
 <details>
   <summary>❌ <b>Project GoProgress </b> </summary>
   <br/>
-  <a href="https://github.com/TheNear/CoinCapCopy">📘<b>  Repository Link </b></a>
+  <a href="https://github.com/TheNear/GoProgress">📘<b>  Repository Link </b></a>
   <br/>
   <a href="https://www.go-progress.ru/">📃 <b> Site Link </b></a>
   <br/>
