@@ -20,6 +20,7 @@ Here you can find what technologies I use, my projects and test assignments comp
 <img align="left" alt="CSSMODULES"   src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/cssmodules.png" />
 <img align="left" alt="SASS"   src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/sass.png" />
 <img align="left" alt="STYLED"   src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/styled.png" />
+<img align="left" alt="GRAPHQL"   src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/graphql.png" />
 <img align="left" alt="MONGODB"   src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/mongodb.png" />
 <img alt="NODE"   src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/node.png" />
 </div>
@@ -38,7 +39,7 @@ Here you can find what technologies I use, my projects and test assignments comp
   <a href="https://www.go-progress.ru/">📃 Site Link</a>
   <br/>
   Not finished Project.❗
-  My pet-project
+  My pet-project.
   <br/>
 
 <b>Used tools:</b>
@@ -46,8 +47,9 @@ Here you can find what technologies I use, my projects and test assignments comp
 <img align="left" alt="TYPESCRIPT"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/typescript.png" />
 <img align="left" alt="REACT"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/react.png" />
 <img align="left" alt="MONGODB"   src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/mongodb.png" />
-<img align="left" alt="MONGODB"   src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/mongodb.png" />
-<img alt="NODE"   src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/node.png" />
+<img align="left" alt="GRAPHQL"   src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/graphql.png" />
+<img align="left" alt="NODE"   src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/node.png" />
+<img alt="STYLED"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/styled.png" />
 
 </details>
 
