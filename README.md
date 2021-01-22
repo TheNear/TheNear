@@ -31,6 +31,25 @@ Here you can find what technologies I use, my projects and test assignments comp
 [vk]: https://vk.com/thenearx
 [mail]: mailto:Nearxjob@gmail.com
 
+<details>
+  <summary>❌ <b>Project GoProgress </b> </summary>
+  <a href="https://github.com/TheNear/CoinCapCopy">📘 Repository Link</a>
+  <br/>
+  <a href="https://www.go-progress.ru/">📃 Site Link</a>
+  <br/>
+  Not finished Project.❗
+  My pet-project
+  <br/>
+
+<b>Used tools:</b>
+<br/>
+<img align="left" alt="TYPESCRIPT"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/typescript.png" />
+<img align="left" alt="REACT"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/react.png" />
+<img align="left" alt="MONGODB"   src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/mongodb.png" />
+<img align="left" alt="MONGODB"   src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/mongodb.png" />
+<img alt="NODE"   src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/node.png" />
+
+</details>
 
 <details>
   <summary>✅ <b>Project CoinCap Copy </b> </summary>
