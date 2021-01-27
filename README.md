@@ -41,7 +41,7 @@ Here you can find what technologies I use, my projects and test assignments comp
   <br/>
   <br/>
   Not finished Project.❗
-  Simple test assignment. Just a multistep form with some features.
+  My pet-project. I want make an app, where you can compete with other people in your daily efficiency. You get points when you will do something useful like sport, english or something else. You can unite in groups with your friends for compete with other groups.
   <br/>
 
 <b>Used tools:</b>
@@ -64,8 +64,7 @@ Here you can find what technologies I use, my projects and test assignments comp
   <a href="https://thenear.github.io/TechartTest/">📃 <b> Github pages </b></a>
   <br/>
   <br/>
-  Not finished Project.❗
-  My pet-project. I want make an app, where you can compete with other people in your daily efficiency. You get points when you will do something useful like sport, english or something else. You can unite in groups with your friends for compete with other groups.
+  Simple test assignment. Just a multistep form with some features.
   <br/>
 
 <b>Used tools:</b>
