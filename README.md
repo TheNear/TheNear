@@ -41,7 +41,7 @@ Here you can find what technologies I use, my projects and test assignments comp
   <br/>
   <br/>
   Not finished Project.❗
-  My pet-project. I want make an app, where you can compete with other people in your daily efficiency. You get points when you will do something useful like sport, english or something else. You can unite in groups with your friends for compete with other groups.
+  Simple test assignment. Just a multistep form with some features.
   <br/>
 
 <b>Used tools:</b>
@@ -55,6 +55,34 @@ Here you can find what technologies I use, my projects and test assignments comp
 <img alt="STYLED"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/styled.png" />
 
 </details>
+
+<details>
+  <summary>✅ <b>Test assignment Techart </b> </summary>
+  <br/>
+  <a href="https://github.com/TheNear/TechartTest">📘<b>  Repository Link </b></a>
+  <br/>
+  <a href="https://thenear.github.io/TechartTest/">📃 <b> Github pages </b></a>
+  <br/>
+  <br/>
+  Not finished Project.❗
+  My pet-project. I want make an app, where you can compete with other people in your daily efficiency. You get points when you will do something useful like sport, english or something else. You can unite in groups with your friends for compete with other groups.
+  <br/>
+
+<b>Used tools:</b>
+<br/>
+<img align="left" alt="TYPESCRIPT"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/typescript.png" />
+<img align="left" alt="REACT"  src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/react.png" />
+<img align="left" alt="SAGA"   src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/saga.png" />
+<img alt="SASS"   src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/sass.png" />
+
+
+<b> Screenshots: </b>
+
+<img alt="Emphasoft login" width="250px" src="https://raw.githubusercontent.com/TheNear/TechartTest/master/readmeimg/techart.png" />
+
+
+</details>
+
 
 <details>
   <summary>✅ <b>Project CoinCap Copy </b> </summary>
